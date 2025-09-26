@@ -12,3 +12,8 @@
 
 # IDEs
 .idea
+
+# Mine
+.do_not_use
+commands.txt
+log.txt
